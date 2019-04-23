@@ -1,0 +1,1 @@
+scp -P (port ~/.ssh/id_dsa.pub user@ip:/home/oracle/.ssh/authorized_keys_ip

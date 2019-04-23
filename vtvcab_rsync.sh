@@ -1,0 +1,1 @@
+rsync -avz -e 'ssh -p port' /home/oracle/wecommit/dailycheck/logcheck/* user@ip:/home/oracle/wecommit/dailycheck/log_(ip máy prod)
